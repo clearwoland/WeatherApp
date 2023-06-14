@@ -1,0 +1,18 @@
+body {
+   display: flex; 
+   flex-wrap: wrap;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+   margin: 0;
+   background: #308671;
+}
+
+.card {
+    background: #7daea2;
+    padding: 1em;
+    border-radius: 40px;
+    width: 50%;
+    max-width: 420px;
+    margin: 1em;
+}
